@@ -1,0 +1,7 @@
+{
+  "name": "Loadbazzar - Future Logistics ERP",
+  "description": "A premium, futuristic logistics ERP platform interface featuring glassmorphism, advanced animations, and role-based entry for agents, transporters, and truck owners.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
